@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Godoy Colussi</h1>
 <h3 align="center">An advanced Computer Engineering student from Argentina</h3>
 
-<h3>🌱 I’m currently learning **Computer Engineering** </h3>
+-🌱 I’m currently learning **Computer Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
