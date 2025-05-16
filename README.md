@@ -2,7 +2,6 @@
 
 <h3 align="center">An advanced Computer Engineering student from Argentina</h3>
 
-<p align="center">🌱 I’m currently learning Computer Engineering</p>
 
 <h3 align="left">Connect with me:</h3>
 
