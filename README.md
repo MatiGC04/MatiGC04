@@ -4,9 +4,9 @@
 
 <p align="center">🌱 I’m currently learning Computer Engineering</p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/matias-godoy-colussi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
@@ -62,9 +62,11 @@
 
 </p>
 
-<h3 align="center">💻 GitHub Stats</h3>
+<h3 align="left">💻 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiGC04&layout=compact&theme=dark" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiGC04&layout=compact&theme=dark&card_width=350" alt="Top Languages"/>
+</p>
+
 </p>
 
