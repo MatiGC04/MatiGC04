@@ -2,7 +2,7 @@
 
 <h3 align="center">An advanced Computer Engineering student from Argentina</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiGC04&label=Profile%20views&color=ff6000&style=flat" alt="MatiGC04" /> </p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
