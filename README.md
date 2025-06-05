@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Matias Godoy Colussi</h1>
 
-<h3 align="center">An advanced Computer Engineering student from Argentina</h3>
+<h3 align="center">An Advanced Computer Engineering student from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 
