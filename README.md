@@ -5,10 +5,19 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin" />
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/matiasgodoy__" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/matias-godoy-colussi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <!--
