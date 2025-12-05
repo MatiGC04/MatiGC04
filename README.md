@@ -33,8 +33,10 @@
 
 <h3 align="left">💻 GitHub Stats</h3>
 
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiGC04&layout=compact&theme=dark&card_width=350" alt="Top Languages"/>
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=MatiGC04&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
   
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiGC04&label=Profile%20views&color=ff6000&style=flat" alt="MatiGC04" /> </p>
