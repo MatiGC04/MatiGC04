@@ -35,7 +35,6 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiGC04&layout=compact&theme=dark&card_width=350" alt="Top Languages"/>
   <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=MatiGC04&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
   
 </p>
